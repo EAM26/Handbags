@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import {unstable_renderSubtreeIntoContainer} from "react-dom";
 
 function App() {
   return (
