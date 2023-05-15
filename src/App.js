@@ -1,14 +1,14 @@
 import React from 'react';
-import './App.css';
-import Button from "./Button";
-import Product from "./Product";
+import './styles/App.css';
+import Button from "./components/Button";
+import Product from "./components/Product";
 import bag_one from './assets/bag_1.png';
 import bag_two from './assets/bag_2.png';
 import bag_three from './assets/bag_3.png';
 import bag_four from './assets/bag_4.png';
 import brand from './assets/brand.png';
 import our_story from './assets/our_story.png'
-import Tile from "./Tile";
+import Tile from "./components/Tile";
 
 // import {unstable_renderSubtreeIntoContainer} from "react-dom";
 
